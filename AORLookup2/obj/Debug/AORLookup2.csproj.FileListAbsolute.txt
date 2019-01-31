@@ -1,0 +1,9 @@
+c:\users\dgraveli\documents\visual studio 2010\Projects\AORLookup2\AORLookup2\bin\Debug\AORLookup2.dll.config
+c:\users\dgraveli\documents\visual studio 2010\Projects\AORLookup2\AORLookup2\bin\Debug\AORLookup2.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\AORLookup2\AORLookup2\bin\Debug\AORLookup2.pdb
+c:\users\dgraveli\documents\visual studio 2010\Projects\AORLookup2\AORLookup2\bin\Debug\RightNow.AddIns.AddInViews.xml
+c:\users\dgraveli\documents\visual studio 2010\Projects\AORLookup2\AORLookup2\obj\Debug\AORLookup2.Properties.Resources.resources
+c:\users\dgraveli\documents\visual studio 2010\Projects\AORLookup2\AORLookup2\obj\Debug\AORLookup2.csproj.GenerateResource.Cache
+c:\users\dgraveli\documents\visual studio 2010\Projects\AORLookup2\AORLookup2\obj\Debug\AORLookup2.dll
+c:\users\dgraveli\documents\visual studio 2010\Projects\AORLookup2\AORLookup2\obj\Debug\AORLookup2.pdb
+C:\Users\dgraveli\documents\visual studio 2010\Projects\AORLookup2\AORLookup2\obj\Debug\AORLookup2.csprojResolveAssemblyReference.cache
